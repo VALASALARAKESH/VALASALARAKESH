@@ -5,7 +5,7 @@
 
 # 💫 About Me:
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/410907/screenshots/2044702/wasting_time.gif">
-🔭 I’m currently working on Frontend technologies.<br>✊ GDSC  Community-Lead (MBU)<br>👯 I’m looking to collaborate on web Development and Open Source.<br>🤝 I’m looking for help with designing intertactive website for gdsc community.<br>🌱 I’m currently learning Full Stack Development.<br>💬 Ask me about Google Cloud and Open Source.<br>⚡ Fun fact - interested in remote work and preparing for placements.
+🔭 I’m currently working on Full-Stack Development and Devops Cloud technologies.<br>✊ GDSC  Community-Lead (MBU)<br>👯 I’m looking to collaborate on web Development and Open Source.<br>🤝 I’m looking for help with designing intertactive website for gdsc community.<br>🌱 I’m currently learning Full Stack Development.<br>💬 Ask me about Google Cloud and Open Source.<br>⚡ Fun fact - interested in remote work and preparing for placements.
 
 
 ## 🌐 Socials:
